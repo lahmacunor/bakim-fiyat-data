@@ -1,9 +1,195 @@
 {
-  "_kaynak": "Bakim-Fiyat-Otomasyonu/BAKIM FİYAT.xlsx — henüz otomatik export edilmiyor, bu bir iskelet/placeholder.",
-  "_guncelleme_tarihi": null,
-  "_notlar": [
-    "Gerçek veri, guncelle.py'ye eklenecek bir export adımıyla buraya push edilecek.",
-    "Format kesinleşmedi — Bakim-Proforma-App/decisions.md'de karar netleştiğinde burası güncellenecek."
-  ],
-  "modeller": {}
+  "_guncelleme_tarihi": "2026-08-23",
+  "_kaynak": "guncelle.py otomatik export - BAKIM FIYAT (guncel - 2026-08-23).xlsx",
+  "modeller": {
+    "Doblo 1.2": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Direksiyon Yağı": 866.73,
+      "FREN BALATA SPR ": 252.99,
+      "Fren Hidroliği": 454.37,
+      "Hava Filtresi": 891.89,
+      "Motor Yağı": 4316.09,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 1411.37,
+      "Yağ Filtresi": 680.21,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 4073.22
+    },
+    "Doblo 1.3 Multijet": {
+      "ANA BAKIM KİTİ": 819.77,
+      "FREN BALATA SPR ": 252.99,
+      "Fren Hidroliği": 454.37,
+      "Periyodik İşçilik": 5833.33,
+      "Yağ İşçilik": 2083.33
+    },
+    "Doblo 1.5 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Direksiyon Yağı": 866.73,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "Hava Filtresi": 1414.26,
+      "Motor Yağı": 4928.45,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 1411.37,
+      "Yağ Filtresi": 802.53,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 4073.22
+    },
+    "Doblo 1.6 Multijet": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 2586.84,
+      "Direksiyon Yağı": 866.73,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "Hava Filtresi": 1404.11,
+      "Motor Yağı": 5532.06,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.73,
+      "Yakıt Filitresi": 2498.34,
+      "Yağ Filtresi": 1661.89,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 4073.22
+    },
+    "Ducato 2.0 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Periyodik İşçilik": 5833.33,
+      "Yağ İşçilik": 2083.33
+    },
+    "Ducato 2.2 Multijet": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1802.16,
+      "Fren Hidroliği": 680.24,
+      "Hava Filtresi": 3052.38,
+      "Motor Yağı": 6840.94,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.84,
+      "Yakıt Filitresi": 3198.89,
+      "Yağ Filtresi": 740.67,
+      "Yağ İşçilik": 2083.33
+    },
+    "Egea 1.3 D": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1368.9,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "FİLİTRE KİTİ": 4843.63,
+      "Hava Filtresi": 1107.85,
+      "Motor Yağı": 4316.09,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.73,
+      "Yakıt Filitresi": 2498.34,
+      "Yağ Filtresi": 1398.67,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 3335.78
+    },
+    "Egea 1.4 B": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 867.04,
+      "Bujiler": 1579.08,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "FİLİTRE KİTİ": 1264.41,
+      "Hava Filtresi": 589.52,
+      "Motor Yağı": 2957.78,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.73,
+      "Yağ Filtresi": 473.59,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 3335.78
+    },
+    "Egea 1.4 LPG": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Bujiler": 1579.08,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "FİLİTRE KİTİ": 1264.41,
+      "Gaz Filitresi": 989.84,
+      "Hava Filtresi": 589.52,
+      "Motor Yağı": 2993.63,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.73,
+      "Yağ Filtresi": 473.59,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 3335.78
+    },
+    "Egea 1.6 Ds": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1239.88,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "Hava Filtresi": 1545.18,
+      "Motor Yağı": 5532.06,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 510.73,
+      "Robot Yağı": 3402.6,
+      "Yakıt Filitresi": 2498.34,
+      "Yağ Filtresi": 1661.89,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 3335.78
+    },
+    "Fiorino 1.3 D": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1562.15,
+      "Direksiyon Yağı": 866.73,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "FİLİTRE KİTİ": 4184.21,
+      "Hava Filtresi": 757.95,
+      "Motor Yağı": 4316.09,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 390.27,
+      "Yakıt Filitresi": 2137.15,
+      "Yağ Filtresi": 1367.99,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 4073.22
+    },
+    "Fiorino 1.4 Fire LPG": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Bujiler": 1579.08,
+      "Direksiyon Yağı": 866.73,
+      "FREN BALATA SPR ": 302.0,
+      "Fren Hidroliği": 680.24,
+      "Gaz Filitresi": 989.84,
+      "Hava Filtresi": 409.15,
+      "Motor Yağı": 2993.63,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 390.27,
+      "Yağ Filtresi": 473.59,
+      "Yağ İşçilik": 2083.33,
+      "ŞANZUMAN YAĞ": 4073.22
+    },
+    "Scudo 1.5 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1111.51,
+      "Hava Filtresi": 2015.62,
+      "Motor Yağı": 6177.76,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 1041.1,
+      "Yakıt Filitresi": 2075.84,
+      "Yağ Filtresi": 802.53,
+      "Yağ İşçilik": 2083.33
+    },
+    "Scudo 2.0 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Alternatör Kayışı": 1442.0,
+      "FREN BALATA SPR ": 302.0,
+      "Hava Filtresi": 2015.62,
+      "Motor Yağı": 6794.43,
+      "Periyodik İşçilik": 5833.33,
+      "Polen Filtresi": 1411.37,
+      "Yakıt Filitresi": 2466.93,
+      "Yağ Filtresi": 1194.23,
+      "Yağ İşçilik": 2083.33
+    },
+    "Scudo 2.2 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Periyodik İşçilik": 5833.33,
+      "Yağ İşçilik": 2083.33
+    },
+    "Ulysse 2.0 BlueHDi": {
+      "ANA BAKIM KİTİ": 819.77,
+      "Periyodik İşçilik": 5833.33,
+      "Yağ İşçilik": 2083.33
+    }
+  }
 }
