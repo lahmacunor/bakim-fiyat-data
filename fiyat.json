@@ -1,6 +1,6 @@
 {
   "_guncelleme_tarihi": "2026-08-27",
-  "_kaynak": "guncelle.py otomatik export - BAKIM FIYAT (guncel - 2026-08-27).xlsx",
+  "_kaynak": "guncelle.py otomatik export - BAKIM FIYAT (guncel - 2026-08-27).xlsx + Egea 1.3 D 'Triger Set' (71776647) elle eklendi 2026-08-29, ayni listeden",
   "modeller": {
     "Doblo 1.2": {
       "ANA BAKIM KİTİ": 819.77,
@@ -119,6 +119,7 @@
       "Polen Filtresi": 510.73,
       "Su Pompası": 3500.37,
       "Tapa Karter": 109.6,
+      "Triger Set": 9755.34,
       "Yakıt Filitresi": 2498.34,
       "Yağ Filtresi": 1398.67,
       "Yağ İşçilik": 2083.33,
