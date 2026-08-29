@@ -22,6 +22,11 @@ listesinden üretiliyor (bkz. ana proje: `Bakim-Fiyat-Otomasyonu`). `fiyat.json`
 şu an için elle güncelleniyor; `guncelle.py`'ye otomatik export adımı
 eklenmesi backlog'da.
 
+**`git push`'tan hemen sonra mutlaka `python purge_cdn.py` çalıştır.**
+jsDelivr push edilen dosyayı saatlerce eski haliyle servis etmeye devam
+edebiliyor, bu script jsDelivr'in resmi purge endpoint'ine istek atıp
+cache'i anında temizliyor.
+
 Bu repo **public** — fiyat listesi zaten müşteriye proformada gösterilen bir
 veri, gizli değil. jsDelivr private repo'yu desteklemediği için bu tercih
 edildi (bkz. `Bakim-Proforma-App/decisions.md`, 2026-08-23).
